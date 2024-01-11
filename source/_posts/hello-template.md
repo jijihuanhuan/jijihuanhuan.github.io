@@ -1,5 +1,5 @@
 ---
-title: Hexo Template
+title: 积极星球
 ---
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
