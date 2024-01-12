@@ -6,7 +6,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "npm run server"
   },
   "hexo": {
     "version": "7.0.0"
@@ -22,6 +22,7 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
+    "hexo-theme-butterfly": "^4.12.0",
     "hexo-theme-landscape": "^1.0.0"
   }
 }
